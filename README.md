@@ -267,6 +267,7 @@ RSS bağlantısını aradığın sitenin adresini aşağıdaki siteye yapıştı
 | NTV Spor Tenis | https://www.ntvspor.net/rss/kategori/tenis |
 | NTV Spor Voleybol | https://www.ntvspor.net/rss/kategori/voleybol |
 | Orta Çizgi | https://ortacizgi.com/feed |
+| Ografi Genel | https://ografi.com/rss |
 | Sabah Spor | https://www.sabah.com.tr/rss/spor.xml |
 | Sözcü 2024 Paris Olimpiyatları | https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari |
 | Sözcü Basketbol | https://www.sozcu.com.tr/feeds-rss-category-basketbol |
